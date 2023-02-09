@@ -1,0 +1,121 @@
+.subtitle {
+	font-size: 48px;
+	text-align: center;
+}
+
+.title {
+	font-size: 48px;
+}
+
+.center-text {
+	text-align: center;
+}
+
+.foot-div {
+	text-align: center;
+	padding-top: 75px;
+}
+
+.title-text {
+	color: #4b6cb7;
+    background: #4b6cb7;
+	background: linear-gradient(90deg, #4b6cb7 0%, #182848 100%);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+}
+
+.header-row {
+	padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.intro-row {
+	padding-top: 25px;
+    padding-bottom: 40px;
+}
+
+.social-icon {
+	max-width: 100%;  
+	height: auto;  
+}
+
+.purple-gradient {
+	color: #FC466B;
+    background: #FC466B;
+	background: linear-gradient(90deg, #FC466B 0%, #3F5EFB 100%);
+	background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+}
+
+.purdue-gold {
+	color: rgb(218,170,0);
+    background: rgb(218,170,0);
+	background: -moz-linear-gradient(90deg, rgba(218,170,0,1) 33%, rgba(221,185,69,1) 66%, rgba(235,217,159,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(218,170,0,1) 33%, rgba(221,185,69,1) 66%, rgba(235,217,159,1) 100%);
+	background: linear-gradient(90deg, rgba(218,170,0,1) 33%, rgba(221,185,69,1) 66%, rgba(235,217,159,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#daaa00",endColorstr="#ebd99f",GradientType=1);
+    background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+}
+
+.unstyled-link {
+	text-decoration: none;
+}
+
+.arity-title {
+	background: rgb(0,82,158);
+	background: -moz-linear-gradient(90deg, rgba(0,82,158,1) 0%, rgba(0,112,214,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(0,82,158,1) 0%, rgba(0,112,214,1) 100%);
+	background: linear-gradient(90deg, rgba(0,82,158,1) 0%, rgba(0,112,214,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#00529e",endColorstr="#0070d6",GradientType=1);
+	background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+}
+
+.invision-title {
+	background: rgb(255,51,102);
+	background: -moz-linear-gradient(90deg, rgba(255,51,102,1) 0%, rgba(255,124,157,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(255,51,102,1) 0%, rgba(255,124,157,1) 100%);
+	background: linear-gradient(90deg, rgba(255,51,102,1) 0%, rgba(255,124,157,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#ff3366",endColorstr="#ff7c9d",GradientType=1);
+	background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+}
+
+.citihub-title {
+	background: rgb(8,57,82);
+	background: -moz-linear-gradient(90deg, rgba(8,57,82,1) 0%, rgba(62,169,222,1) 100%);
+	background: -webkit-linear-gradient(90deg, rgba(8,57,82,1) 0%, rgba(62,169,222,1) 100%);
+	background: linear-gradient(90deg, rgba(8,57,82,1) 0%, rgba(62,169,222,1) 100%);
+	filter: progid:DXImageTransform.Microsoft.gradient(startColorstr="#083952",endColorstr="#3ea9de",GradientType=1);
+	background-size: 100%;
+    background-repeat: repeat;
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    -webkit-box-decoration-break: clone;
+}
+
+.job-title {
+	font-size: 25px;
+}
+
+.job-year {
+	font-size: 20px;
+	font-style: italic;
+	color: #434343;
+}
